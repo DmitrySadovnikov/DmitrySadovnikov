@@ -22,7 +22,7 @@ Built a system for lots of users that only costs $1/month on AWS!
 
 ## When I'm not coding
 
-I play tennis, run, cycle, and love to travel.
+I play tennis, run, cycle, bake bread, read non-fiction books, and love to travel.
 
 ## Let's connect
 
